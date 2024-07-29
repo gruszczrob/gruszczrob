@@ -1,10 +1,9 @@
+<div margin=0 padding=0 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gruszczrob&label=Profile%20views&color=orange&style=flat" alt="gruszczrob" /> </p>
+</div>
 
-<p align="center">
-  <img width="auto" height=200px margin=0 src="https://github.com/user-attachments/assets/b0b8a12c-9b71-489d-ba6d-53c1978c8b18">
-</p>
 
-<h1 align="center">Hi, I'm Robert Gruszczyński</h1>
+<h1 align="center" margin=0 padding=0 >Hi, I'm Robert Gruszczyński</h1>
 <h3 align="center">Student | C++ programmer | Embedded</h3>
 
 <div align="center">
@@ -41,15 +40,11 @@
 <h3>🔥My stats</h3>
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gruszczrob&card_width=450&theme=codeSTACKr" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gruszczrob&layout=compact&langs_count=7&card_width=450&theme=codeSTACKr" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gruszczrob&theme=codeSTACKr" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gruszczrob&layout=compact&langs_count=7&theme=codeSTACKr" />
 </div>
 
-<h3>🏅My credly badges</h3>
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
-<h3>📦My best repos</h3>
+<h3>📦My favourite repos</h3>
 <div align="center">
 <a href="https://github.com/gruszczrob/Crc-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gruszczrob&repo=Crc-calculator" />
