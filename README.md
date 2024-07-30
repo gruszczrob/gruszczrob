@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **[CPP to professional degree](https://cppinstitute.org/cpp)** and **[C to associate](https://cppinstitute.org/cla)**
 
-- 🔭 I’m currently working on [Labrirynt Generator](github.com)
+- 🔭 I’m currently working on [Labrirynt Generator](https://github.com/gruszczrob/LabiryntGenerator)
 
 - 📫 How to reach me **gruszczrobert@proton.me**
 
