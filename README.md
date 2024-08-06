@@ -42,6 +42,7 @@
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gruszczrob&theme=codeSTACKr" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gruszczrob&layout=compact&langs_count=7&theme=codeSTACKr" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=gruszczrob&theme=codestackr&hide_border=true" />
 </div>
 
 <h3>📦My favourite repos</h3>
