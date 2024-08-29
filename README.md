@@ -53,7 +53,7 @@
 <a href="https://github.com/gruszczrob/vscode-gitmate">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gruszczrob&repo=vscode-gitmate" />
 </a>
-<a href="github.com/gruszczrob/entropyCalculator">
+<a href="https://github.com/gruszczrob/entropyCalculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gruszczrob&repo=entropyCalculator" />
 </a>
 </div>
